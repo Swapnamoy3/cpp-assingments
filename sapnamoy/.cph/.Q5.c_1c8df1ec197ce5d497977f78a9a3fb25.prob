@@ -1,0 +1,1 @@
+{"name":"Local: Q5","url":"/home/user1/Documents/sapnamoy/Q5.c","tests":[{"id":1691652333275,"input":"5\n19 swapnamoy\n78 masud\n2 azim\n1 saif\n0 abhi","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/user1/Documents/sapnamoy/Q5.c","group":"local","local":true}
