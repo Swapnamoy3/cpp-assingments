@@ -8,7 +8,6 @@ Design the classes and implement.
 using namespace std;
 class book;
 class Transaction_slip;
-
 class bookList{
     book** bookArray;
     int n;
